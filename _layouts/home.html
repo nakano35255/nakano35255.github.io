@@ -32,6 +32,18 @@
         width: 300px;
         height: auto;
       }
+      
+     /* 追記：レスポンシブ対応 */
+      @media (max-width: 768px) {
+        .wrapper {
+          flex-direction: column; /* 縦並びに変更 */
+        }
+  
+        .image-wrapper, 
+        .content-wrapper {
+          width: 100%; /* 画像とテキストの幅を100%にする */
+        }
+      }
     </style>
   </head>
   <body>
