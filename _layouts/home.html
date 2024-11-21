@@ -12,36 +12,42 @@
 
     {% include head-custom.html %}
     <style>
-      .wrapper {
-        display: flex;
-        align-items: center; /* 垂直方向中央揃え */
-      }
-
-      .content-wrapper {
-        width: 70%; /* 右側のコンテンツの幅を調整 */
-        padding: 20px;
-      }
-
-      .image-wrapper {
-        width: 30%; /* 左側の画像の幅を調整 */
-        padding: 20px;
-        transform: translateX(-100px);
-      }
-
-      .image-wrapper img {
-        width: 300px;
-        height: auto;
-      }
-      
-     /* 追記：レスポンシブ対応 */
-      @media (max-width: 768px) {
+     /* レスポンシブ対応 */
+      @media (min-width: 768px) {
         .wrapper {
-          flex-direction: column; /* 縦並びに変更 */
+          display: flex;
+          align-items: center; /* 垂直方向中央揃え */
         }
   
-        .image-wrapper, 
         .content-wrapper {
+          width: 70%; /* 右側のコンテンツの幅を調整 */
+          padding: 20px;
+        }
+  
+        .image-wrapper {
+          width: 30%; /* 左側の画像の幅を調整 */
+          padding: 20px;
+          transform: translateX(-100px);
+        }
+  
+        .image-wrapper img {
+          width: 300px;
+          height: auto;
+        }
+      }
+      @media (max-width: 768px) {
+        .wrapper {
+          display: block; /* flexboxを解除 */
+        }
+      
+        .content-wrapper,
+        .image-wrapper {
           width: 100%; /* 画像とテキストの幅を100%にする */
+          padding: 20px;
+        }
+      
+        .image-wrapper {
+          transform: translateX(0); /* 画像の左寄せを解除 */
         }
       }
     </style>
