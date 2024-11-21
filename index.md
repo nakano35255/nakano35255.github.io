@@ -1,11 +1,10 @@
 ---
 layout: home
 title: 中野裕義のウェブサイト
-image: https://github.com/nakano35255/nakano35255.github.io/
+image: https://github.com/nakano35255/nakano35255.github.io/blob/main/figures/myown1.jpg
 ---
 
 ## 中野裕義の基本情報（詳細なプロフィールはこちら）
-
 2023年1月から[東京大学物性研究所 野口研究室](https://noguchi.issp.u-tokyo.ac.jp/index_j.html)の助教をしています。
 
 Googleスカラーは[こちら](https://scholar.google.co.jp/citations?user=YbvUOn4AAAAJ&hl=ja)
