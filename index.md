@@ -1,5 +1,5 @@
 ---
-layout: default_mod
+layout: better_default
 title: 中野裕義のウェブサイト
 image: /figures/myown1.jpg
 ---
