@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
+title: 中野裕義のウェブサイト
+image: https://github.com/nakano35255/nakano35255.github.io/
 ---
-
-# 中野裕義のウェブサイト
 
 ## 中野裕義の基本情報（詳細なプロフィールはこちら）
 
