@@ -1,6 +1,5 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: alexcatze/better-leap-day
 plugins:
   - jekyll-remote-theme
-
 title: Hiroyoshi Nakano's web page
 description: This is a web page of Hiroyoshi Nakano.
