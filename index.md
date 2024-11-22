@@ -3,9 +3,9 @@ layout: default
 title: Nakano Hiroyoshi's web page
 ---
 
-## こんにちは、中野裕義です
+# こんにちは、中野裕義です
 
-<img src="/figures/myown1.jpg" alt="Hello" width="200">
+<img src="/figures/myown1.jpg" alt="Hello" width="300">
 
 ## 基本情報（詳細なプロフィールはこちら）
 
@@ -18,8 +18,8 @@ E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp
 ## 研究テーマ
 
 古典力学に従う多粒子系で起こる面白い非平衡現象を探しています。  
-分子動力学シミュレーションや揺らぐ流体力学という枠組みを用いて研究しています。
-こちらをどうぞ（工事中）。
+分子動力学シミュレーションや揺らぐ流体力学という枠組みを用いて研究しています。  
+詳しい話はこちらをどうぞ（工事中）。
 
 ## 数値計算コード
 
@@ -29,6 +29,6 @@ E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp
 ## ニュース
 
 2024年11月12日：[一般の層流下で見られる連続対称性の破れの理論研究に関する論文](https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta)がJ. Stat. Mech.に掲載されました。岐阜大学の南さんとの共著です。  
-2024年11月7日 ：[温度勾配下における長距離相関の分子動力学シミュレーションに関する論文](https://arxiv.org/abs/2411.04416)をarXivに投稿しました。
-2024年9月3日  ：[非等方的な自己駆動力を持つアクティブマターの無秩序相で一般に見られる長距離空間相関に関する論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033234) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第2弾です。
+2024年11月7日 ：[温度勾配下における長距離相関の分子動力学シミュレーションに関する論文](https://arxiv.org/abs/2411.04416)をarXivに投稿しました。  
+2024年9月3日  ：[非等方的な自己駆動力を持つアクティブマターの無秩序相で一般に見られる長距離空間相関に関する論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033234) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第2弾です。  
 2024年1月19日  ：[非等方的な自己駆動力を持つアクティブブラウン粒子系の多体現象を詳しく調べた論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013074) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第1弾です。
