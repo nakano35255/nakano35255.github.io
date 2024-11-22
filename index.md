@@ -5,7 +5,7 @@ title: Nakano Hiroyoshi's web page
 
 ## こんにちは、中野裕義です
 
-![Hello](/figures/myown1.jpg)
+<img src="/figures/myown1.jpg" alt="Hello" width="200">
 
 ## 基本情報（詳細なプロフィールはこちら）
 
