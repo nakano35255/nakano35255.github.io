@@ -7,7 +7,7 @@ title: Nakano Hiroyoshi's web page
 
 <img src="/figures/myown1.jpg" alt="Hello" width="300">
 
-## 基本情報（詳細なプロフィールはこちら）
+## 基本情報（詳細なプロフィールは[こちら](/docs/profile_japanese.md)）
 
 2023年1月から[東京大学物性研究所 野口研究室](https://noguchi.issp.u-tokyo.ac.jp/index_j.html)の助教をしています。
 
@@ -15,7 +15,7 @@ Googleスカラーは[こちら](https://scholar.google.co.jp/citations?user=Ybv
 E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp  
 居室：物性研究所 A502b
 
-## 研究テーマ
+## 研究テーマ（論文リストは[こちら](/docs/publication_japanese.md)）
 
 古典力学に従う多粒子系で起こる面白い非平衡現象を探しています。  
 分子動力学シミュレーションや揺らぐ流体力学という枠組みを用いて研究しています。  
