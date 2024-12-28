@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: About
+permalink: /about/
 ---
 
 # こんにちは、中野裕義です
