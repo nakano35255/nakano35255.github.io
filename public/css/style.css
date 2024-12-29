@@ -337,3 +337,15 @@ footer {
 		display: none;
 	}
 }
+
+
+h3.research-theme {
+	font-size: 24px;
+	font-weight: bold;
+	color: #333; /* 文字色を少し暗く */
+	padding: 20px;
+	background-color: #f5f5f5; /* 背景色を薄いグレーに */
+	border: 1px solid #ddd; /* 枠線をグレーに */
+	margin-top: 30px;
+	margin-bottom: 20px;
+}

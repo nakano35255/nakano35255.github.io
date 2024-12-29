@@ -7,7 +7,7 @@ permalink: /about/
 # こんにちは、中野裕義です
 
 <div style="text-align: left;">
-  <img src="/public/img/home.jpg" alt="home" height="350">
+  <img src="/public/img/home.jpg" alt="home" style="width: 100%; height: auto; max-width: 850px;">
 </div>
 
 ## 基本情報（詳細なプロフィールは[こちら](/profile/)）

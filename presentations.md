@@ -1,5 +1,5 @@
 ---
 layout: page
-title: PRESENTATIONS
+title: 発表
 permalink: /presentations/
 ---
