@@ -1,5 +1,6 @@
 ---
 layout: home
+title: HOME
 ---
 
 # こんにちは、中野裕義です

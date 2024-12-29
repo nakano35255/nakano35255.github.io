@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: page-en
 title: HOME
-permalink: /about/
+permalink: /about/en/
 ---
 
-# こんにちは、中野裕義です
+# Hello. This is a web page of Hiroyoshi Nakano.
 
 <img src="/figures/myown1.jpg" alt="Hello" width="300">
 
