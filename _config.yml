@@ -23,7 +23,7 @@ email: nakano.hiroyoshi.7n@gmail.com
 description: >-
   This is a web page of Hiroyoshi Nakano.<br>
   <br>
-  English page is <a href="http://127.0.0.1:4000/about/en">here</a>.
+  English page is <a href="https://nakano35255.github.io/about/en/">here</a>.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nakano35255

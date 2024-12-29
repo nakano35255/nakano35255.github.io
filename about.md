@@ -1,15 +1,16 @@
 ---
 layout: page
-title: HOME
+title: ホーム
 permalink: /about/
 ---
 
 # こんにちは、中野裕義です
 
-<img src="/figures/myown1.jpg" alt="Hello" width="300">
+<div style="text-align: left;">
+  <img src="/public/img/home.jpg" alt="home" height="350">
+</div>
 
-
-## 基本情報（詳細なプロフィールは[こちら](/docs/profile_japanese.md)）
+## 基本情報（詳細なプロフィールは[こちら](/profile/)）
 
 2023年1月から[東京大学物性研究所 野口研究室](https://noguchi.issp.u-tokyo.ac.jp/index_j.html)の助教をしています。
 
