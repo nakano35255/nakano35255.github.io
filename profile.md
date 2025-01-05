@@ -2,6 +2,7 @@
 layout: page
 title: "略歴・プロフィール"
 permalink: /profile/
+order: 2
 ---
 
 <div style="text-align: left;">

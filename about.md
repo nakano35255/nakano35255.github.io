@@ -2,6 +2,7 @@
 layout: page
 title: ホーム
 permalink: /about/
+order: 1
 ---
 
 # こんにちは、中野裕義です

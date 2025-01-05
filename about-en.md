@@ -2,6 +2,7 @@
 layout: page-en
 title: HOME
 permalink: /about/en/
+order: 1
 ---
 
 # Hello. This is a web page of Hiroyoshi Nakano.

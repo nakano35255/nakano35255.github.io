@@ -14,7 +14,7 @@
  <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
 	    <li class="nav-title">Pages</li>
-	    {% assign pages_list = site.pages | where: "layout", "page" %}
+	    {% assign pages_list = site.pages | where: "layout", "page" | sort: "order" %}
 	    {% for node in pages_list %}
 		 {% if node.title != null %}
 		   <li>
@@ -26,11 +26,11 @@
 	    {% endfor %}
 	</ul>
  </div>
- 
+
  <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
 	    <li class="nav-title">Pages (English)</li>
-	    {% assign pages_list = site.pages | where: "layout", "page-en" %}
+	    {% assign pages_list = site.pages | where: "layout", "page-en" | sort: "order" %}
 	    {% for node in pages_list %}
 		 {% if node.title != null %}
 		   <li>

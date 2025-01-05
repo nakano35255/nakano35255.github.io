@@ -2,6 +2,7 @@
 layout: page
 title: 研究の概要
 permalink: /research/
+order: 5
 ---
 
 これまでの研究の概要についてまとめました。

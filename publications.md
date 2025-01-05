@@ -2,6 +2,7 @@
 layout: page
 title: 出版
 permalink: /publications/
+order: 3
 ---
 
 こちらもご覧ください：[Google Scholar](https://scholar.google.co.jp/citations?user=YbvUOn4AAAAJ&hl=ja), [Researchmap](https://researchmap.jp/nakano35255)
