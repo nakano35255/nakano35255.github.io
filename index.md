@@ -27,11 +27,11 @@ E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp
 2024年1月19日  ：[非等方的な自己駆動力を持つアクティブブラウン粒子系の多体現象を詳しく調べた論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013074) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第1弾です。
 
 
-## 研究テーマ（論文リストは[こちら](/docs/publication_japanese.md)）
+## 研究テーマ（論文リストは[こちら](/publications/)）
 
 古典力学に従う多粒子系で起こる面白い非平衡現象を探しています。  
 分子動力学シミュレーションや揺らぐ流体力学という枠組みを用いて研究しています。  
-詳しい話はこちらをどうぞ（工事中）。
+詳しい話は[こちら](/research/)をどうぞ。
 
 ## 数値計算コード
 

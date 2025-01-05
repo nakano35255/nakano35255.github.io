@@ -314,17 +314,22 @@ footer {
 
 	.sidebar {
 		font-size: 0.8em;
-		flex: 0 0 auto;
+		flex: 1 0 auto;
 		flex-flow: row nowrap;
 		height: auto;
+		overflow-x: auto; /* ← 追加 */ 
 	}
 
 	.sidebar-nav {
 		margin: 0px;
 	}
 
-	.sidebar-item {
+	/* .sidebar-item {
 		flex: 1 1 auto;
+	} */
+	.sidebar-item {
+		flex: 0 0 180px; /* sidebar-item の幅を固定 */
+		margin-right: 10px; /* sidebar-item 間の余白 */
 	}
 
 	.sidebar-header {

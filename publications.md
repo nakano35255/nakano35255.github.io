@@ -9,6 +9,11 @@ permalink: /publications/
 
 ## 査読付き原著論文
 
+<h2>2025</h2>
+<ol>
+</ol>
+
+<h2>2024</h2>
 <ol>
   <li>
     <b>Harukuni Ikeda and <u>Hiroyoshi Nakano</u></b><br>
@@ -40,12 +45,20 @@ permalink: /publications/
     <a href="https://doi.org/10.1103/PhysRevResearch.6.013074">Phys. Rev. Research <b>6</b>, 013074 (2024)</a>&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2306.17517">[arXiv:2306.17517]</a>
   </li>
+</ol>
+
+<h2>2022</h2>
+<ol>
   <li>
     <b><u>Hiroyoshi Nakano</u> and Yuki Minami</b><br>
     "Molecular dynamics study of shear-induced long-range correlations in simple fluids"<br>
     <a href="https://doi.org/10.1103/PhysRevResearch.4.023147">Phys. Rev. Research <b>4</b>, 023147 (2022)</a>&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2202.04904">[arXiv:2202.04904]</a>
   </li>
+</ol>
+
+<h2>2021</h2>
+<ol>
   <li>
     <b><u>Hiroyoshi Nakano</u>, Yuki Minami, Taiki Haga, and Shin-ichi Sasa</b><br>
     "Emergence of surface long-range order under uniform shear flow"<br>
@@ -64,12 +77,20 @@ permalink: /publications/
     <a href="https://doi.org/10.1103/PhysRevLett.126.141601">Phys. Rev. Lett. <b>126</b>, 141601 (2021)</a>&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2009.10357">[arXiv:2009.10357]</a>
   </li>
+</ol>
+
+<h2>2020</h2>
+<ol>
   <li>
     <b><u>Hiroyoshi Nakano</u> and Shin-ichi Sasa</b><br>
     "Equilibrium measurement method of slip length based on fluctuating hydrodynamics"<br>
     <a href="https://doi.org/10.1103/PhysRevE.101.033109">Phys. Rev. E <b>191</b>, 033109 (2020)</a>&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/1910.03825">[arXiv:1910.03825]</a>
   </li>
+</ol>
+
+<h2>2019</h2>
+<ol>
   <li>
     <b><u>Hiroyoshi Nakano</u> and Shin-ichi Sasa</b><br>
     "Statistical Mechanical Expressions of Slip Length"<br>
