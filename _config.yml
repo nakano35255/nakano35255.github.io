@@ -25,7 +25,7 @@ description: >-
   <br>
   English page is <a href="https://nakano35255.github.io/about/en/">here</a>.
 # baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://nakano35255.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nakano35255
 highlighter: rouge
 svg:
