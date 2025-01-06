@@ -35,8 +35,8 @@ svg:
 highlighter-theme: colorful
 date_format: "%Y-%M-%D"
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-feed
 category_dir: category/
 tag_dir: tag/
 google_analytics: G-8CW09WJ3W6
