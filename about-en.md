@@ -5,7 +5,7 @@ permalink: /about/en/
 order: 1
 ---
 
-# Hello. This is a web page of Hiroyoshi Nakano.
+# Hello. This is the website of Hiroyoshi Nakano.
 
 <div style="text-align: left;">
   <img src="/public/img/home.jpg" alt="home" style="width: 100%; height: auto; max-width: 850px;">
