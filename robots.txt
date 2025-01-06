@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nakano35255.github.io/sitemap.xml
