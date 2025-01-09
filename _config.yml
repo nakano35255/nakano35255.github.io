@@ -36,11 +36,9 @@ highlighter-theme: colorful
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 category_dir: category/
 tag_dir: tag/
 google_analytics: G-8CW09WJ3W6
-sitemap: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
