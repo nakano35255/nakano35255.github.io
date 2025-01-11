@@ -32,19 +32,24 @@ order: 4
 
 
 ## 国際会議（ポスター）
+
 <ol>
+  <li>
+    <b>Hiroyoshi Nakano</b><br>
+    "Long-Range Correlations under Temperature Gradients: A Molecular Dynamics Study of Simple Fluids"<br>
+    <a href="https://www.slmp2025.tokyo">Soft and Liquid Matter Physics: Past, Present and Future (SLMP2025)</a>,<br>
+    May. oo, 2025,&nbsp;&nbsp; Institute of Industrial Science, The University of Tokyo, Japan
+  </li>
   <li>
     <b>Hiroyoshi Nakano</b><br>
     "Large-Scale Molecular Dynamics Simulations of Nonequilibrium Long-Range Correlations in Simple Fluids"<br>
     <a href="https://ismc2023.jp/index.html">The 7th International Soft Matter Conference (ISMC2023)</a>,<br>
     Sep. 6, 2023,&nbsp;&nbsp; Osaka International Conventional Center, Japan
   </li>
-</ol>
-<ol>
   <li>
     <b>Hiroyoshi Nakano and Kyosuke Adachi</b><br>
     "Possible Route from Self-propelled Elements to Externally Driven Systems"<br>
-    <a href="https://www.icbp2023.org">International Conference on Biological Physics 2023, ICBP 2023</a>,<br>
+    <a href="https://www.icbp2023.org">International Conference on Biological Physics 2023, (ICBP2023)</a>,<br>
     Aug. 17, 2023,&nbsp;&nbsp; Seoul Olympic Parktel, Korea
   </li>
   <li>
@@ -103,9 +108,18 @@ order: 4
 </ol>
 
 ## 国内会議（ポスター発表）
+
+<ol>
+  <li>
+    <b>中野裕義, 横田和磨, 南佑樹</b><br>
+    "無重力下において一様温度勾配／密度勾配が引き起こす流体不安定性"<br>
+    <a href="https://www.jps.or.jp/activities/meetings/spring/spring_index.php">日本物理学会 </a>,<br>
+    2025年3月oo日,&nbsp;&nbsp; オンライン
+  </li>
   <li>
     <b>中野裕義</b><br>
     "Molecular dynamics study of long-range spatial correlations in nonequilibrium simple fluids"<br>
     <a href="https://softmatter.xsrv.jp/event/meeting11.html">第11回ソフトマター研究会</a>,<br>
     2023年12月19日,&nbsp;&nbsp; 東京大学生産技術研究所, 東京
   </li>
+</ol>
