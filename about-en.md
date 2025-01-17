@@ -12,9 +12,9 @@ order: 1
 </div>
 
 
-## About Me (For detailed profile "click [here](/profile-en/)")
+## About Me (For detailed profile, "click [here](/profile-en/)")
 
-I have been a research associate at [Noguchi laboratory, the Insttute for Solid State Physics, the University of Tokyo](https://noguchi.issp.u-tokyo.ac.jp/index_j.html) since January 2023.
+I have been a research associate at [Noguchi laboratory, the Institute for Solid State Physics, the University of Tokyo](https://noguchi.issp.u-tokyo.ac.jp/index_j.html) since January 2023.
 
 Google Scholar: [here](https://scholar.google.co.jp/citations?user=YbvUOn4AAAAJ&hl=ja) <br>
 E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp  <br>
@@ -32,11 +32,11 @@ Office: A502b, ISSP
 **January 19th, 2024:** Our paper, which provides a detailed investigation of the many-body phenomena in active Brownian particles with anisotropic self-propulsion, has been published in Physical Review Research. This is the first publication from our active matter research project with Kyosuke Adachi from RIKEN iTHEMS/BDR. ([Link to the paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013074))
 
 
-## Research Interests (For a list of publications, click [here](/publications-en/))
+## Research Interests (For the list of publications, "click [here](/publications-en/)")
 
 I am exploring intriguing non-equilibrium phenomena that occur in many-particle systems governed by classical mechanics. 
 
-My research utilizes molecular dynamics simulations and the framework of fluctuating hydrodynamics.
+My research utilizes large-scale molecular dynamics simulations and the framework of fluctuating hydrodynamics.
 
 For more details, please see [here](/research-en/) (under construction).
 
