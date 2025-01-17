@@ -11,7 +11,8 @@ order: 1
   <img src="/public/img/home.jpg" alt="home" style="width: 100%; height: auto; max-width: 850px;">
 </div>
 
-## About Me (For detailed profile click [here](/profile/))
+
+## About Me (For detailed profile "click [here](/profile-en/)")
 
 I have been a research associate at [Noguchi laboratory, the Insttute for Solid State Physics, the University of Tokyo](https://noguchi.issp.u-tokyo.ac.jp/index_j.html) since January 2023.
 
@@ -22,19 +23,22 @@ Office: A502b, ISSP
 
 ## News
 
-2024年11月12日：[一般の層流下で見られる連続対称性の破れの理論研究に関する論文](https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta)がJ. Stat. Mech.に掲載されました。岐阜大学の南さんとの共著です。  
-2024年11月7日 ：[温度勾配下における長距離相関の分子動力学シミュレーションに関する論文](https://arxiv.org/abs/2411.04416)をarXivに投稿しました。  
-2024年9月3日  ：[非等方的な自己駆動力を持つアクティブマターの無秩序相で一般に見られる長距離空間相関に関する論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033234) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第2弾です。  
-2024年1月19日  ：[非等方的な自己駆動力を持つアクティブブラウン粒子系の多体現象を詳しく調べた論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013074) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第1弾です。
+**November 12th, 2024:** Our paper on the theoretical study of spontaneous symmetry breaking observed in general laminar flows has been published in J. Stat. Mech. This is a joint work with Yuki Minami from Gifu University. ([Link to the paper](https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta))
+
+**November 7th, 2024:** We have uploaded a paper on molecular dynamics simulation of long-range correlations under a temperature gradient to arXiv. ([Link to the paper](https://arxiv.org/abs/2411.04416))
+
+**September 3rd, 2024:** Our paper on the long-range spatial correlations commonly observed in the disordered phase of active matter with anisotropic self-propulsion has been published in Physical Review Research. This is the second publication from our active matter research project with Kyosuke Adachi from RIKEN iTHEMS/BDR. ([Link to the paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033234))
+
+**January 19th, 2024:** Our paper, which provides a detailed investigation of the many-body phenomena in active Brownian particles with anisotropic self-propulsion, has been published in Physical Review Research. This is the first publication from our active matter research project with Kyosuke Adachi from RIKEN iTHEMS/BDR. ([Link to the paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013074))
 
 
-## 研究テーマ（論文リストは[こちら](/docs/publication_japanese.md)）
+## Research Interests (For a list of publications, click [here](/publications-en/))
 
-古典力学に従う多粒子系で起こる面白い非平衡現象を探しています。  
-分子動力学シミュレーションや揺らぐ流体力学という枠組みを用いて研究しています。  
-詳しい話はこちらをどうぞ（工事中）。
+I am exploring intriguing non-equilibrium phenomena that occur in many-particle systems governed by classical mechanics. 
 
-## 数値計算コード
+My research utilizes molecular dynamics simulations and the framework of fluctuating hydrodynamics.
 
-研究で用いた自作のプラグラミングコードの解説を行なっています。  
-こちらをどうぞ（工事中）。
+For more details, please see [here](/research-en/) (under construction).
+
+
+
