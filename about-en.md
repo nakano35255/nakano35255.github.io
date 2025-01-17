@@ -11,16 +11,16 @@ order: 1
   <img src="/public/img/home.jpg" alt="home" style="width: 100%; height: auto; max-width: 850px;">
 </div>
 
-## 基本情報（詳細なプロフィールは[こちら](/profile/)）
+## About Me (For detailed profile click [here](/profile/))
 
-2023年1月から[東京大学物性研究所 野口研究室](https://noguchi.issp.u-tokyo.ac.jp/index_j.html)の助教をしています。
+I have been a research associate at [Noguchi laboratory, the Insttute for Solid State Physics, the University of Tokyo](https://noguchi.issp.u-tokyo.ac.jp/index_j.html) since January 2023.
 
-Googleスカラーは[こちら](https://scholar.google.co.jp/citations?user=YbvUOn4AAAAJ&hl=ja)  
-E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp  
-居室：物性研究所 A502b
+Google Scholar: [here](https://scholar.google.co.jp/citations?user=YbvUOn4AAAAJ&hl=ja) <br>
+E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp  <br>
+Office: A502b, ISSP
 
 
-## ニュース
+## News
 
 2024年11月12日：[一般の層流下で見られる連続対称性の破れの理論研究に関する論文](https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta)がJ. Stat. Mech.に掲載されました。岐阜大学の南さんとの共著です。  
 2024年11月7日 ：[温度勾配下における長距離相関の分子動力学シミュレーションに関する論文](https://arxiv.org/abs/2411.04416)をarXivに投稿しました。  
