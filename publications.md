@@ -12,6 +12,12 @@ order: 3
 
 <h2>2025</h2>
 <ol>
+  <li>
+    <b><u>Hiroyoshi Nakano</u>,  Yuki Minami, and Keiji Saito</b><br>
+    "Looking at bare transport coefficients in fluctuating hydrodynamics"<br>
+    <i>under review</i>,&nbsp;
+    <a href="https://arxiv.org/abs/2502.15241">[arXiv:2502.15241]</a>
+  </li>
 </ol>
 
 <h2>2024</h2>

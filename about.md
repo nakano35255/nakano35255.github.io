@@ -23,6 +23,8 @@ E-mail: nakano.hiroyoshi.7n [at] issp.u-tokyo.ac.jp
 
 ## ニュース
 
+2025年2月21日：[揺らぐ流体力学に含まれる裸の輸送係数の操作論的測定法に関する論文](https://arxiv.org/abs/2502.15241)をarXivにあげました。岐阜大学の南さんと京都大学の齊藤さんとの共著です。
+2024年12月3日：[一様せん断流下におけるO(N)モデルを動的繰り込み群で解析した論文](https://arxiv.org/abs/2412.02111)をarXivにあげました。学習院大学の池田さんのプロジェクトに参加しました。
 2024年11月12日：[一般の層流下で見られる連続対称性の破れの理論研究に関する論文](https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta)がJ. Stat. Mech.に掲載されました。岐阜大学の南さんとの共著です。  
 2024年11月7日 ：[温度勾配下における長距離相関の分子動力学シミュレーションに関する論文](https://arxiv.org/abs/2411.04416)をarXivに投稿しました。  
 2024年9月3日  ：[非等方的な自己駆動力を持つアクティブマターの無秩序相で一般に見られる長距離空間相関に関する論文](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033234) がPhysical Review Researchに掲載されました。RIKEN iTHEMS/BDRの足立さんと行っていたアクティブマターの研究プロジェクトの第2弾です。  
