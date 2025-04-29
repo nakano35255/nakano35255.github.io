@@ -13,19 +13,7 @@ M1 Mac で Jekyll を実行するには、以下の手順に従ってくださ�
 bundle install
 ```
 
-2. 古いffi gem をアンインストール
-
-```sh
-sudo gem uninstall ffi
-```
-
-3. ffi gem を再インストール
-
-```sh
-sudo arch -x86_64 gem install ffi
-```
-
-4. Jekyll サーバーを起動
+2. Jekyll サーバーを起動
 
 ```sh
 bundle exec jekyll serve

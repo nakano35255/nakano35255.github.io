@@ -111,3 +111,46 @@ order: 3
     <a href="https://arxiv.org/abs/1808.06859">[arXiv:1808.06859]</a>
   </li>
 </ol>
+
+
+## 日本語記事
+
+<!-- <h2></h2>
+<ol>
+  <li>
+    <b><u>Hiroyoshi Nakano</u>,  Yuki Minami, and Keiji Saito</b><br>
+    "Looking at bare transport coefficients in fluctuating hydrodynamics"<br>
+    <i>under review</i>,&nbsp;
+    <a href="https://arxiv.org/abs/2502.15241">[arXiv:2502.15241]</a>
+  </li>
+</ol> -->
+
+
+## MISC
+
+<h2>2024</h2>
+<ol>
+  <li>
+    <b><u>Hiroyoshi Nakano</u></b><br>
+    "Numerical simulations of fluctuating hydrodynamics: renormalized correction of shear viscosity"<br>
+    <a href="https://mdcl.issp.u-tokyo.ac.jp/scc/activity-reports/6347">Activity Report 2023, p.264-265, Supercomputer Center, Institute for Solid State Physics, The University of Tokyo</a>
+  </li>
+</ol>
+
+<h2>2023</h2>
+<ol>
+  <li>
+    <b><u>Hiroyoshi Nakano</u></b><br>
+    "Critical Phenomena of Active Brownian Particles with Uniaxial Self-propulsion"<br>
+    <a href="https://mdcl.issp.u-tokyo.ac.jp/scc/activity-reports/5463">Activity Report 2022, p.221-222, Supercomputer Center, Institute for Solid State Physics, The University of Tokyo</a>
+  </li>
+</ol>
+
+<h2>2022</h2>
+<ol>
+  <li>
+    <b><u>Hiroyoshi Nakano</u></b><br>
+    "Molecular dynamics study of shear-induced long-range correlations in simple fluids"<br>
+    <a href="https://mdcl.issp.u-tokyo.ac.jp/scc/activity-reports/4093">Activity Report 2021, p.247-248, Supercomputer Center, Institute for Solid State Physics, The University of Tokyo</a>
+  </li>
+</ol>
