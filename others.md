@@ -5,6 +5,8 @@ permalink: /others/
 order: 6
 ---
 
-## その他研究活動
+## 数値計算コード
+
+
 
 
