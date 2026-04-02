@@ -125,17 +125,23 @@ order: 3
 </ol>
 
 
-## 日本語記事
+## 日本語記事（寄稿記事）
 
-<!-- <h2></h2>
+<h2>2025</h2>
 <ol>
   <li>
-    <b><u>Hiroyoshi Nakano</u>,  Yuki Minami, and Keiji Saito</b><br>
-    "Looking at bare transport coefficients in fluctuating hydrodynamics"<br>
-    <i>under review</i>,&nbsp;
-    <a href="https://arxiv.org/abs/2502.15241">[arXiv:2502.15241]</a>
+    <b>中野裕義</b><br>
+    "揺らぐ流体力学の基礎研究の発展と最近の応用例"<br>
+    <a href="https://www.nagare.or.jp/publication/nagare/archive/2025/4.html">[ながれ 第44巻 (2025) 第4号]</a>
+    <i>2025年12月発行</i>
   </li>
-</ol> -->
+  <li>
+    <b>中野裕義</b><br>
+    "揺らぐ流体力学の基礎研究の発展と最近の応用例"<br>
+    <a href="https://www.nikko-pb.co.jp/products/detail.php?product_id=5967&srsltid=AfmBOoojCBQecB4cmhI4gioC6CpuRoR9vcjwFctnUIheKmtoLtU56rS0">[クリーンテクノロジー 2025年5月号]</a>
+    <i>2025年5月発行</i>
+  </li>
+</ol>
 
 
 ## MISC
