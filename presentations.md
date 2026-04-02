@@ -12,6 +12,12 @@ order: 4
 <ol>
   <li>
     <b><u>Hiroyoshi Nakano</u></b><br>
+    "“Collective Phenomena of Active Particles Communicating through Diffusion Fields”"<br>
+    <a href="https://sites.google.com/view/activematter2026">International Active Matter Workshop 2026</a>,<br>
+    Jan. 24, 2026,&nbsp;&nbsp; Nakano campus, Meiji University, Tokyo, Japan
+  </li>
+  <li>
+    <b><u>Hiroyoshi Nakano</u></b><br>
     "Looking at bare transport coefficients in fluctuating hydrodynamics"<br>
     <a href="https://indico.yukawa.kyoto-u.ac.jp/event/49/">Hydrodynamics of low-dimensional interacting systems: Advances, challenges, and future directions</a>,<br>
     Jun. 9, 2024,&nbsp;&nbsp; Yukawa Institute for Theoretical Physics, Kyoto University, Kyoto, Japan
@@ -86,7 +92,22 @@ order: 4
 
 
 ## 国内会議（口頭発表）
+
 <ol>
+  <li>
+    <b>中野裕義, 南佑樹</b><br>
+    "一様せん断流下にある揺らぐ流体方程式の定量解析"<br>
+    <a href="https://onsite.gakkai-web.net/jps/jps_search/2026sp/index.html">日本物理学会 2026年春季大会</a>,<br>
+    2026年3月26日,&nbsp;&nbsp; オンライン
+  </li>
+  <li>
+  <li>
+    <b>（招待講演）中野裕義</b><br>
+    "一様せん断流下にある揺らぐ流体方程式の定量解析"<br>
+    <a href="https://haltasaki.github.io/events/spm/2026/">統計物理学懇談会（第13回）</a>,<br>
+    2026年3月13日,&nbsp;&nbsp; オンライン
+  </li>
+  <li>
   <li>
     <b>中野裕義, 南佑樹</b><br>
     "一様勾配下の非平衡定常流体におけるエネルギー散逸の流体力学的下限"<br>
@@ -148,6 +169,12 @@ order: 4
 <ol>
   <li>
     <b>中野裕義</b><br>
+    "一様濃度勾配下にある2成分混合流体の揺らぐ流体シミュレーション"<br>
+    <a href="https://noguchi.issp.u-tokyo.ac.jp/ks/index.html">第2回 ソフトマター若手研究会 </a>,<br>
+    2025年11月15日,&nbsp;&nbsp; 千葉大学, 千葉
+  </li>
+  <li>
+    <b>中野裕義</b><br>
     "低次元流体の定常流を予言する上での揺らぐ流体力学の必要性"<br>
     <a href="https://mdcl.issp.u-tokyo.ac.jp/scc/news/6668">物性研究所スパコン共同利用・CCMS合同研究会 </a>,<br>
     2025年4月3日,&nbsp;&nbsp; 東大物性研, 東京
@@ -163,5 +190,23 @@ order: 4
     "Molecular dynamics study of long-range spatial correlations in nonequilibrium simple fluids"<br>
     <a href="https://softmatter.xsrv.jp/event/meeting11.html">第11回ソフトマター研究会</a>,<br>
     2023年12月19日,&nbsp;&nbsp; 東京大学生産技術研究所, 東京
+  </li>
+</ol>
+
+
+## その他
+
+<ol>
+  <li>
+    <b>（English）Hiroyoshi Nakano</b><br>
+    "Fluctuating Hydrodynamics Under Uniform Gradients (Historical Context and New Insights)"<br>
+    <a href="https://sites.google.com/site/thphys2014/">山本研究室セミナー（慶應義塾大学） </a>,<br>
+    2026年1月14日,&nbsp;&nbsp; 矢上キャンパス、慶應義塾大学、神奈川
+  </li>
+  <li>
+    <b>（English）<u>Hiroyoshi Nakano</u>, and Kyosuke Adachi</b><br>
+    "Critical Phenomena in Active Brownian Particle Systems: The Influence of Directional Self-Propulsion"<br>
+    <a href="https://sites.google.com/view/nishidayusuke/">西田研究室セミナー（東京科学大学） </a>,<br>
+    2026年1月14日,&nbsp;&nbsp; 大岡山キャンパス、東京科学大学、東京
   </li>
 </ol>

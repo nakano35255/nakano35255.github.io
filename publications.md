@@ -13,6 +13,24 @@ order: 3
 <h2>2025</h2>
 <ol>
   <li>
+    <b><u>Hiroyoshi Nakano</u>,  and Yuki Minami</b><br>
+    "Dissipation anomaly in gradient-driven nonequilibrium steady states"<br>
+    <i>under review</i>,&nbsp;
+    <a href="https://arxiv.org/abs/2511.17851">[arXiv:2511.17851]</a>
+  </li>
+  <li>
+    <b>Yuki Minami, <u>Hiroyoshi Nakano</u>,  and Keiji Saito</b><br>
+    "Symmetry-based nonlinear fluctuating hydrodynamics in one dimension"<br>
+    <i>under review</i>,&nbsp;
+    <a href="https://arxiv.org/abs/2511.12574">[arXiv:2511.12574]</a>
+  </li>
+  <li>
+    <b><u>Hiroyoshi Nakano</u> and Kazuma Yokota</b><br>
+    "Long-Range Correlations under Temperature Gradients: A Molecular Dynamics Study of Simple Fluids"<br>
+    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.L063401">Phys. Rev. E <b>111</b>, L063401 (2025)</a>&nbsp;&nbsp;
+    <a href="https://arxiv.org/abs/2411.04416">[arXiv:2411.04416]</a>
+  </li>
+  <li>
     <b><u>Hiroyoshi Nakano</u>,  Yuki Minami, and Keiji Saito</b><br>
     "Looking at bare transport coefficients in fluctuating hydrodynamics"<br>
     <i>under review</i>,&nbsp;
@@ -33,12 +51,6 @@ order: 3
     "Spontaneous symmetry breaking in two dimensions under non-equilibrium laminar flows"<br>
     <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad83c9/meta">J. Stat. Mech. <b>2024</b>, 114305 (2024)</a>&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2212.06390">[arXiv:2212.06390]</a>
-  </li>
-  <li>
-    <b><u>Hiroyoshi Nakano</u> and Kazuma Yokota</b><br>
-    "Long-Range Correlations under Temperature Gradients: A Molecular Dynamics Study of Simple Fluids"<br>
-    <i>under review</i>,&nbsp;
-    <a href="https://arxiv.org/abs/2411.04416">[arXiv:2411.04416]</a>
   </li>
   <li>
     <b>Kyosuke Adachi and <u>Hiroyoshi Nakano</u></b><br>
