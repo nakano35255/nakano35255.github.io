@@ -12,7 +12,7 @@ order: 4
 <ol>
   <li>
     <b><u>Hiroyoshi Nakano</u></b><br>
-    "“Collective Phenomena of Active Particles Communicating through Diffusion Fields”"<br>
+    "Collective Phenomena of Active Particles Communicating through Diffusion Fields"<br>
     <a href="https://sites.google.com/view/activematter2026">International Active Matter Workshop 2026</a>,<br>
     Jan. 24, 2026,&nbsp;&nbsp; Nakano campus, Meiji University, Tokyo, Japan
   </li>
@@ -101,13 +101,11 @@ order: 4
     2026年3月26日,&nbsp;&nbsp; オンライン
   </li>
   <li>
-  <li>
     <b>（招待講演）中野裕義</b><br>
     "一様せん断流下にある揺らぐ流体方程式の定量解析"<br>
     <a href="https://haltasaki.github.io/events/spm/2026/">統計物理学懇談会（第13回）</a>,<br>
     2026年3月13日,&nbsp;&nbsp; オンライン
   </li>
-  <li>
   <li>
     <b>中野裕義, 南佑樹</b><br>
     "一様勾配下の非平衡定常流体におけるエネルギー散逸の流体力学的下限"<br>
@@ -163,6 +161,7 @@ order: 4
     2023年4月4日,&nbsp;&nbsp; 東京大学物性研究所, 千葉
   </li>
 </ol>
+
 
 ## 国内会議（ポスター発表）
 

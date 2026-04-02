@@ -65,5 +65,5 @@ X (formerly Twitter) : [@nakatphys](https://x.com/nakatphys)
     *   "Construction of a general theory of continuous symmetry breaking and phase transitions in nonequilibrium steady states"
     *   Funding: 3,900,000 JPY
 *   **FY2026 - FY2028:** JSPS Grants-in-Aid (KAKENHI) for Scientific Research (C)
-   *   "Construction of a numerical computation foundation for fluctuating continuum theory based on computational fluid dynamics"
-   *   Expected Funding: 4,680,000 JPY
+    *   "Construction of a numerical computation foundation for fluctuating continuum theory based on computational fluid dynamics"
+    *   Expected Funding: 4,680,000 JPY
