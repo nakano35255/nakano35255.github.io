@@ -199,13 +199,19 @@ order: 4
   <li>
     <b>（English）Hiroyoshi Nakano</b><br>
     "Fluctuating Hydrodynamics Under Uniform Gradients (Historical Context and New Insights)"<br>
-    <a href="https://sites.google.com/site/thphys2014/">山本研究室セミナー（慶應義塾大学） </a>,<br>
-    2026年1月14日,&nbsp;&nbsp; 矢上キャンパス、慶應義塾大学、神奈川
+    <a href="https://sites.google.com/view/nishidayusuke/">西田研究室セミナー（東京科学大学） </a>,<br>
+    2026年1月14日,&nbsp;&nbsp; 大岡山キャンパス、東京科学大学、東京
+  </li>
+  <li>
+    <b>（日本語）中野裕義</b><br>
+    "裸の輸送係数の操作論的観測法"<br>
+    <a href="https://csp.web.nitech.ac.jp/">磯部研究室セミナー（名古屋工業大学） </a>,<br>
+    2025年4月15日,&nbsp;&nbsp; 名古屋工業大学、愛知
   </li>
   <li>
     <b>（English）<u>Hiroyoshi Nakano</u>, and Kyosuke Adachi</b><br>
     "Critical Phenomena in Active Brownian Particle Systems: The Influence of Directional Self-Propulsion"<br>
-    <a href="https://sites.google.com/view/nishidayusuke/">西田研究室セミナー（東京科学大学） </a>,<br>
-    2026年1月14日,&nbsp;&nbsp; 大岡山キャンパス、東京科学大学、東京
+    <a href="https://sites.google.com/site/thphys2014/">山本研究室セミナー（慶應義塾大学） </a>,<br>
+    2025年4月9日,&nbsp;&nbsp; 矢上キャンパス、慶應義塾大学、神奈川
   </li>
 </ol>
