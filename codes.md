@@ -13,14 +13,14 @@ order: 6
 
 対象としている方程式は、次の形で書ける保存型の確率偏微分方程式です。
 
-\[
+$$
 \partial_t \phi^\alpha
 + \sum_\beta A_{\alpha\beta}\partial_x\phi^\beta
 - \sum_\beta D_{\alpha\beta}\partial_x^2\phi^\beta
 + \sum_{\beta,\gamma}H^\alpha_{\beta\gamma}\partial_x(\phi^\beta\phi^\gamma)
 =
 \sum_\beta B_{\alpha\beta}\partial_x\xi^\beta .
-\]
+$$
 
 Fourier スペクトル法を用いて空間微分を高精度に評価し、非線形項は 3/2 padding による擬スペクトル法で計算しています。KPZ 普遍性クラスを調べるための様々な観測量に対応しており、新しい観測量の追加も容易に行えるように設計されています。
 
@@ -46,7 +46,7 @@ Fourier スペクトル法を用いて空間微分を高精度に評価し、非
 
 対象としている方程式は、次の形で書ける1成分密度場 $\rho(x,t)$ の保存則型確率偏微分方程式です。
 
-\[
+$$
 \frac{\partial \rho(x,t)}{\partial t}
 =
 \frac{\partial}{\partial x}
@@ -68,4 +68,4 @@ v(x)A(\rho)
 \left[
 \sqrt{2\sigma(\rho)}\,\xi(x,t)
 \right].
-\]
+$$

@@ -13,14 +13,14 @@ This page summarizes numerical codes and research software that I make publicly 
 
 The code solves conservative stochastic partial differential equations of the form
 
-\[
+$$
 \partial_t \phi^\alpha
 + \sum_\beta A_{\alpha\beta}\partial_x\phi^\beta
 - \sum_\beta D_{\alpha\beta}\partial_x^2\phi^\beta
 + \sum_{\beta,\gamma}H^\alpha_{\beta\gamma}\partial_x(\phi^\beta\phi^\gamma)
 =
 \sum_\beta B_{\alpha\beta}\partial_x\xi^\beta .
-\]
+$$
 
 Spatial derivatives are evaluated with a Fourier spectral method, and nonlinear terms are computed by a pseudospectral method with 3/2 padding. The solver supports conservative noise, nonlinear mode coupling, restart output, and several observables designed for fluctuating hydrodynamics and KPZ universality.
 
@@ -48,7 +48,7 @@ I am planning to release another numerical code for more complex fluctuating hyd
 
 The target equations include conservative stochastic partial differential equations for a one-component scalar density field $\rho(x,t)$, such as
 
-\[
+$$
 \frac{\partial \rho(x,t)}{\partial t}
 =
 \frac{\partial}{\partial x}
@@ -70,4 +70,4 @@ v(x)A(\rho)
 \left[
 \sqrt{2\sigma(\rho)}\,\xi(x,t)
 \right].
-\]
+$$
