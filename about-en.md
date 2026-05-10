@@ -41,4 +41,7 @@ My research utilizes large-scale molecular dynamics simulations and the framewor
 For more details, please see [here](/research-en/) (under construction).
 
 
+## Numerical Codes
+
+I make some of my research codes publicly available. Please see [Numerical Codes](/codes/en/) for details.
 
