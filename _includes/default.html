@@ -5,7 +5,7 @@
   <title>{{ site.title }}</title>
   <!-- <link href="/public/css/bootstrap.min.css" rel="stylesheet"> -->
 
-  <link href="/public/css/style.css" rel="stylesheet">
+  <link href="/public/css/style.css?v={{ site.time | date: '%s' }}" rel="stylesheet">
   <body>
   	<div class="container"> 
 		<div class="sidebar">
