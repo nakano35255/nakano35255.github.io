@@ -2,8 +2,7 @@
 layout: page
 title: "その他"
 permalink: /others/
-order: 7
+order: 8
 ---
-
 
 
