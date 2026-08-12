@@ -418,6 +418,27 @@ h3.research-theme {
 	margin: 0;
 }
 
+.book-card-body {
+	min-width: 0;
+}
+
+.book-card-body > p + p,
+.book-card-body > .book-quote + p {
+	margin-top: 14px;
+}
+
+.book-quote {
+	margin: 14px 0 0;
+	padding: 14px 18px;
+	border-left: 4px solid #79aaa5;
+	background: #f7faf9;
+	color: #465b59;
+}
+
+.book-quote p {
+	margin: 0;
+}
+
 .book-card h2 {
 	margin: 7px 0 0;
 	font-size: 1.2em;
